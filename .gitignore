@@ -1,0 +1,6 @@
+node_modules/
+# dados de uso nunca entram neste repositório (ele é público)
+data/
+*.jsonl
+dashboard.html
+.env

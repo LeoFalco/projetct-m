@@ -1,0 +1,16 @@
+{
+  "name": "projetct-m",
+  "version": "0.1.0",
+  "description": "Entenda como você gasta tokens do Claude Code: por sessão, assunto, máquina e horário.",
+  "type": "module",
+  "bin": {
+    "ptm": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
